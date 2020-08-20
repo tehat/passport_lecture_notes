@@ -10,7 +10,7 @@
   "author": "Scott Bromander",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^0.8.5",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.13.3",
     "bootstrap": "^3.3.5",
     "express": "^4.13.1",
